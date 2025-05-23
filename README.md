@@ -17,22 +17,21 @@ A lightweight and visually engaging cursor effect that adds a reptile-like trail
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Abhay-0103/Reptile-Interactive-Cursor.git
-Navigate to the project directory
 
-bash
-Copy
-Edit
-cd Reptile-Interactive-Cursor
-Open index.html in your preferred web browser
-Simply double-click the file or serve it using a local server.
+2. **Navigate to the project directory**
+   ```bash
+   cd Reptile-Interactive-Cursor
+   
+3. **Open index.html in your preferred web browser**
+     Simply double-click the file or serve it using a local server.
 
-Usage
+## Usage
+
 To integrate the reptile cursor effect into your own project:
 
-Include the script in your HTML file before the closing </body> tag:
+1. **Include the script in your HTML file before the closing </body> tag:**
 
-html
-Copy
-Edit
-<script src="script.js"></script>
-Customize the effect by modifying the parameters in script.js as needed.
+   ```html
+   <script src="script.js"></script>
+
+2. **Customize the effect by modifying the parameters in script.js as needed.**
