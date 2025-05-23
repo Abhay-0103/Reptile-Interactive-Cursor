@@ -4,7 +4,8 @@ A lightweight and visually engaging cursor effect that adds a reptile-like trail
 
 ## Demo Preview
 
-![Reptile Cursor Demo](reptile_interactive_cursor_preview.png)
+<img src="/Screenshot 2025-05-23 193158.png" alt="Demo" />
+
 
 ## Features
 
