@@ -4,35 +4,35 @@ A lightweight and visually engaging cursor effect that adds a reptile-like trail
 
 ## Demo Preview
 
-<img src="/Screenshot 2025-05-23 193158.png" alt="Demo" />
-
+<img src="Screenshot 2025-05-23 193158.png" alt="Reptile Cursor Demo" width="600"/>
 
 ## Features
 
-- Smooth, animated cursor trail resembling a reptile's movement
-- Easy integration into existing web projects
-- Minimalistic design with no external dependencies
+- 🦎 Smooth, animated cursor trail resembling a reptile's movement  
+- ⚡ Easy integration into existing web projects  
+- 📦 Minimalistic design with no external dependencies  
 
 ## Installation
 
-Clone the repository:
-GitHub
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Abhay-0103/Reptile-Interactive-Cursor.git
+Navigate to the project directory
 
 bash
-git clone https://github.com/Abhay-0103/Reptile-Interactive-Cursor.git
-Navigate to the project directory:
-
-bash
+Copy
+Edit
 cd Reptile-Interactive-Cursor
-Open index.html in your preferred web browser to see the cursor effect in action.
+Open index.html in your preferred web browser
+Simply double-click the file or serve it using a local server.
 
 Usage
 To integrate the reptile cursor effect into your own project:
 
-Copy the contents of script.js into your project's JavaScript file or include it as a separate script.
-
-Ensure that the script is linked in your HTML file, preferably before the closing </body> tag:
+Include the script in your HTML file before the closing </body> tag:
 
 html
+Copy
+Edit
 <script src="script.js"></script>
-Customize the effect as needed by modifying the parameters in the script.
+Customize the effect by modifying the parameters in script.js as needed.
